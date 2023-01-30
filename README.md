@@ -1,7 +1,7 @@
 # Microsoft Sentinel - ChatCGP Demo
 
 
-Use case description
+Use case description.
 The following use case describes an incident trigger in Microsoft Sentinel, where a comment is added to the incident to explain the Mitre Att&ck Tactics and Techniques used by the attacker, and a task is added to suggest how to investigate the incident. Additionally, it leverages previous tasks to suggest a KQL query.
 Incident trigger: The incident trigger is defined as a specific event or condition in Microsoft Sentinel, such as a security alert or a log entry that meets certain criteria. For example, the trigger could be triggered when a suspicious network connection is detected.
 Add comment to incident: Once the incident trigger is activated, a comment is added to the incident to explain the tactics and techniques used by the attacker. This could include information such as the specific malware used, or the methods used to evade detection.
@@ -31,5 +31,5 @@ Thank you!
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png"/>
 </a>
 
-**Additional Post Install Notes:**
+
 
