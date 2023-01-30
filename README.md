@@ -8,14 +8,14 @@ Add comment to incident: Once the incident trigger is activated, a comment is ad
 Add task to incident: A task is added to the incident to suggest how to investigate the incident. This could include tasks such as collecting additional data, running automated investigations, or taking specific actions to contain or remediate the incident.
 Leverage previous task: The previous task's outcome is used to suggest a KQL query to investigate the incident. The KQL query allows searching for specific events or log entries in the Microsoft Sentinel data to help in the incident investigation. This query can be used to gather more information about the incident and help identify the cause and scope of the attack.
 
-To upload this playbook in Azure Sentinel please follow the below instructions:
+To upload this playbook in Microsoft Sentinel please follow the below instructions:
 - From the Azure portal menu, in the search box, type Template, and then select Templates
 - Select +Add and give it a Name and Description
 - copy and paste the json file in the previous folder in the ARM template layout.
 - click add
 - your logic app is created and ready to be deployed
 - From the Azure portal menu, in the search box, type Sentinel 
-- click on Azure Sentinel and then in the left hand-side menu click automation 
+- click on Microsoft Sentinel and then in the left hand-side menu click automation 
 - click on Add
 - Add new playbook
 - on the bottom select download custom template
