@@ -1,4 +1,4 @@
-# Microsoft Sentinel - ChatCGP Demo
+# Microsoft Sentinel - ChatGPT Demo
 
 
 Use case description.
